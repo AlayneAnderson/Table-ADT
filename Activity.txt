@@ -1,0 +1,8 @@
+Cozy;beautiful bedrooms that have an amazing view;5th ave PDX;1500;3;0.2
+small;Small one bedroom apartment;Salem;500;1;47
+Bright;Beautiful 2 bedroom 2 bathroom apartment with huge windows;broadway;1000;2;1
+Rooftop garden;Studio apartment that has rooftop gardening area;Portland;800;0;2
+enjoy the sunshine;the best sunshine right next to the waterfront;Portland;950;1;1
+House;A cozy three bedroom two bathroom house in a nice subburb of portland;Division st;2000;3;2
+
+
